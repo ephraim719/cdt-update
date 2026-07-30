@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.4.9",
+  "latest_version": "1.5.0",
   "date": "2026-07-30",
-  "note": "修復瀏覽器啟動、g0v多筆挑錯、TIPO誤判0；新增公開發行偵測",
+  "note": "新增一鍵自動更新（保固內可用，到期停用）",
   "download_url": "https://github.com/ephraim719/cdt-update/releases/latest/download/CompanyDataTool.zip"
 }
