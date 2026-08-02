@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.5.6",
+  "latest_version": "1.5.9",
   "date": "2026-08-02",
-  "note": "TIPO 跑到一半若網路中斷，不再整包失敗；會保留已完成的公司資料照常輸出",
+  "note": "資本額依公司類型取正確欄位(股份=實收/有限=資本總額)、工作表改名為『資料補完』；並含急件跳過、斷網不整包失敗、可接續補完",
   "download_url": "https://github.com/ephraim719/cdt-update/releases/latest/download/CompanyDataTool.zip"
 }
