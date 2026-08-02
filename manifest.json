@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.5.5",
+  "latest_version": "1.5.6",
   "date": "2026-08-02",
-  "note": "輸入 Excel 不再需要年份欄：只要一欄公司名稱即可（自動偵測欄位），舊格式仍相容",
+  "note": "TIPO 跑到一半若網路中斷，不再整包失敗；會保留已完成的公司資料照常輸出",
   "download_url": "https://github.com/ephraim719/cdt-update/releases/latest/download/CompanyDataTool.zip"
 }
