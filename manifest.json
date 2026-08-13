@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.5.9",
-  "date": "2026-08-02",
-  "note": "資本額依公司類型取正確欄位(股份=實收/有限=資本總額)、工作表改名為『資料補完』；並含急件跳過、斷網不整包失敗、可接續補完",
+  "latest_version": "1.6.0",
+  "date": "2026-08-13",
+  "note": "查詢強化：可用統編/官方全名輔助查詢、縣市鄉鎮市區修正(平鎮區等)、多筆相似不亂寫官方名、公司改制(有限↔股份)自動再查",
   "download_url": "https://github.com/ephraim719/cdt-update/releases/latest/download/CompanyDataTool.zip"
 }
