@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.6.0",
-  "date": "2026-08-13",
-  "note": "查詢強化：可用統編/官方全名輔助查詢、縣市鄉鎮市區修正(平鎮區等)、多筆相似不亂寫官方名、公司改制(有限↔股份)自動再查",
+  "latest_version": "1.6.1",
+  "date": "2026-08-15",
+  "note": "修正少數公司名單跑到一半中斷（g0v 特殊資料格式導致），現在單筆解析出錯會跳過該家繼續跑、不再整批中斷",
   "download_url": "https://github.com/ephraim719/cdt-update/releases/latest/download/CompanyDataTool.zip"
 }
