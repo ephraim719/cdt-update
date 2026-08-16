@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.6.1",
-  "date": "2026-08-15",
-  "note": "修正少數公司名單跑到一半中斷（g0v 特殊資料格式導致），現在單筆解析出錯會跳過該家繼續跑、不再整批中斷",
+  "latest_version": "1.6.2",
+  "date": "2026-08-16",
+  "note": "修正：同名公司多筆時挑現存那筆(不再誤抓已解散統編)、只填統一編號也能查、外商抓境內營運資金與分公司所在地",
   "download_url": "https://github.com/ephraim719/cdt-update/releases/latest/download/CompanyDataTool.zip"
 }
