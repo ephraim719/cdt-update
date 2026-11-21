@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.6.3",
-  "date": "2026-10-08",
-  "note": "掛牌別資料改成每日更新：新登錄興櫃/上櫃的公司會即時反映，不再被舊快取誤標成未公開掛牌",
+  "latest_version": "1.7.0",
+  "date": "2026-11-21",
+  "note": "新功能：I 欄改為負責人姓名；新增「英文名查中文名」（功能選單切換）；查不到的統編更快跳過",
   "download_url": "https://github.com/ephraim719/cdt-update/releases/latest/download/CompanyDataTool.zip"
 }
