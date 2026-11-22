@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.7.0",
-  "date": "2026-11-21",
-  "note": "新功能：I 欄改為負責人姓名；新增「英文名查中文名」（功能選單切換）；查不到的統編更快跳過",
+  "latest_version": "1.7.1",
+  "date": "2026-11-22",
+  "note": "英文名查詢：同一家公司的分公司不再列入候選（只留總公司），減少人工確認",
   "download_url": "https://github.com/ephraim719/cdt-update/releases/latest/download/CompanyDataTool.zip"
 }
